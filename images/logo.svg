@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="265" viewBox="0 0 1000 265">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 50.795px;
+        fill: #ad0909;
+        text-anchor: middle;
+        font-family: "Copperplate Gothic Bold";
+      }
+    </style>
+  </defs>
+  <text id="memento-mori" class="cls-1" transform="translate(500 177.435) scale(1.379)"><tspan x="0">memento-mori</tspan></text>
+  <text id="Lorem_Ipsum" data-name="Lorem Ipsum" class="cls-1" x="1281.67" y="-114.676"><tspan x="1281.67">Lorem Ipsum</tspan></text>
+</svg>
